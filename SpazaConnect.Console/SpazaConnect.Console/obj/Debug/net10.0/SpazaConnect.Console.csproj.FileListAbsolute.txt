@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.exe
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.deps.json
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.runtimeconfig.json
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.dll
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.pdb
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.AssemblyInfo.cs
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.dll
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\refint\SpazaConnect.Console.dll
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.pdb
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.genruntimeconfig.cache
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\ref\SpazaConnect.Console.dll
+C:\Users\User\source\repos\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaCon.8FF8A6ED.Up2Date
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.exe
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.deps.json
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.runtimeconfig.json
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\bin\Debug\net10.0\SpazaConnect.Console.pdb
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.AssemblyInfoInputs.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.AssemblyInfo.cs
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\refint\SpazaConnect.Console.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.pdb
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaConnect.Console.genruntimeconfig.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\ref\SpazaConnect.Console.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema FA2 PRG522\Spazaconnect\SpazaConnect.Console\SpazaConnect.Console\obj\Debug\net10.0\SpazaCon.8FF8A6ED.Up2Date
